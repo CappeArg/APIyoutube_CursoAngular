@@ -1,0 +1,7 @@
+.card-columns {
+    columns: 2;
+}
+
+.card {
+    flex-flow: wrap;
+}
